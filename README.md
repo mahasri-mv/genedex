@@ -241,10 +241,11 @@ Seeded automatically for evaluation. The Sign In modal also has quick-fill butto
 ## 👥 Team
 
 | Name | GitHub |
-| :--- | :--- |
-| _Member 1_ | [@username](https://github.com/username) |
-| _Member 2_ | [@username](https://github.com/username) |
-| _Member 3_ | [@username](https://github.com/username) |
+| Gowshik|https://github.com/gowshik-cyber7 |
+| Mahasri Murugesan | mahasri-mv |
+| Mahitha S| https://github.com/Mahitha2501|
+| Sruthica M S | sruthicasathish-stack|
+
 
 *Each member contributes from their own GitHub account. See the commit history for individual contributions.*
 
